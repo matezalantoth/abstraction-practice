@@ -1,0 +1,15 @@
+/Users/matezalantoth/RiderProjects/abstraction-practice/AbstractionPractices/AbstractionPractice/bin/Debug/net6.0/AbstractionPractice
+/Users/matezalantoth/RiderProjects/abstraction-practice/AbstractionPractices/AbstractionPractice/bin/Debug/net6.0/AbstractionPractice.deps.json
+/Users/matezalantoth/RiderProjects/abstraction-practice/AbstractionPractices/AbstractionPractice/bin/Debug/net6.0/AbstractionPractice.runtimeconfig.json
+/Users/matezalantoth/RiderProjects/abstraction-practice/AbstractionPractices/AbstractionPractice/bin/Debug/net6.0/AbstractionPractice.dll
+/Users/matezalantoth/RiderProjects/abstraction-practice/AbstractionPractices/AbstractionPractice/bin/Debug/net6.0/AbstractionPractice.pdb
+/Users/matezalantoth/RiderProjects/abstraction-practice/AbstractionPractices/AbstractionPractice/obj/Debug/net6.0/AbstractionPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matezalantoth/RiderProjects/abstraction-practice/AbstractionPractices/AbstractionPractice/obj/Debug/net6.0/AbstractionPractice.AssemblyInfoInputs.cache
+/Users/matezalantoth/RiderProjects/abstraction-practice/AbstractionPractices/AbstractionPractice/obj/Debug/net6.0/AbstractionPractice.AssemblyInfo.cs
+/Users/matezalantoth/RiderProjects/abstraction-practice/AbstractionPractices/AbstractionPractice/obj/Debug/net6.0/AbstractionPractice.csproj.CoreCompileInputs.cache
+/Users/matezalantoth/RiderProjects/abstraction-practice/AbstractionPractices/AbstractionPractice/obj/Debug/net6.0/AbstractionPractice.sourcelink.json
+/Users/matezalantoth/RiderProjects/abstraction-practice/AbstractionPractices/AbstractionPractice/obj/Debug/net6.0/AbstractionPractice.dll
+/Users/matezalantoth/RiderProjects/abstraction-practice/AbstractionPractices/AbstractionPractice/obj/Debug/net6.0/refint/AbstractionPractice.dll
+/Users/matezalantoth/RiderProjects/abstraction-practice/AbstractionPractices/AbstractionPractice/obj/Debug/net6.0/AbstractionPractice.pdb
+/Users/matezalantoth/RiderProjects/abstraction-practice/AbstractionPractices/AbstractionPractice/obj/Debug/net6.0/AbstractionPractice.genruntimeconfig.cache
+/Users/matezalantoth/RiderProjects/abstraction-practice/AbstractionPractices/AbstractionPractice/obj/Debug/net6.0/ref/AbstractionPractice.dll
